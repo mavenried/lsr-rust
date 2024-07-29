@@ -9,6 +9,8 @@ homepage = "https://github.com/maverik-io"
 repository = "https://github.com/maverik-io/lsr-rust"
 keywords = ["cli", "ls", "nerd-fonts", "icons"]
 categories = ["command-line-utilities"]
+edition = "2021"
 
 [dependencies]
+colored = "2.1.0"
 termsize = "0.1.8"
