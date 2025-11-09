@@ -1,8 +1,8 @@
-# lsr 
-
-## Description
+<h1 align="center">lsr-nf</h1>
+<p align="center">
 This is a simple implementation of the `ls -R` command in Rust. It lists all the files and directories in the current directory recursively.
 Includes indentation and Nerd Fonts icons for directories and files.
+</p>
 
 ## Installation 
 Install from cargo :-
